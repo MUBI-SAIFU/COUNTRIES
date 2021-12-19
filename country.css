@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dancing+Script&family=M+PLUS+1:wght@200&family=Open+Sans+Condensed:ital,wght@1,300&family=PT+Serif:ital@1&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Comforter&family=Dancing+Script&family=M+PLUS+1:wght@200&family=Open+Sans+Condensed:ital,wght@1,300&family=PT+Serif:ital@1&family=Teko:wght@300&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Comforter&family=Dancing+Script&family=M+PLUS+1:wght@200&family=Metal+Mania&family=Open+Sans+Condensed:ital,wght@1,300&family=Open+Sans:wght@400;500&family=PT+Serif:ital@1&family=Teko:wght@300&family=Ubuntu:wght@500&display=swap');
+
+.bod{
+    
+    background-image: url(./images/index.jpeg);
+    background-size: cover;
+    backface-visibility: initial;
+    background-blend-mode: multiply;
+}
+.head{
+    color: rgb(190, 201, 221);
+    font-family: 'Metal Mania', cursive;
+    font-style: oblique;
+}
+.head2{
+    font-family: 'Metal Mania', cursive;; 
+
+}
+.cap{
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-style: oblique;
+}
+.box{
+    width: 180px;
+    height: 40px;
+}
